@@ -1,0 +1,7 @@
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\cfg_if-418f6a7c2257d423.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cfg-if-1.0.0\src\lib.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\libcfg_if-418f6a7c2257d423.rlib: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cfg-if-1.0.0\src\lib.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\cfg_if-418f6a7c2257d423.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cfg-if-1.0.0\src\lib.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cfg-if-1.0.0\src\lib.rs:

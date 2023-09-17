@@ -1,0 +1,11 @@
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\notify-cfb7e678e0b5e57e.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\windows.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\event.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\null.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\poll.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\config.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\error.rs
+
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\notify-cfb7e678e0b5e57e.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\windows.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\event.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\null.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\poll.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\config.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\error.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\windows.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\event.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\null.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\poll.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\config.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\notify-5.2.0\src\error.rs:

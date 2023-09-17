@@ -1,0 +1,11 @@
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\libc-27af87acf9be830a.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\macros.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\fixed_width_ints.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\windows\mod.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\windows\msvc\mod.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\liblibc-27af87acf9be830a.rlib: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\macros.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\fixed_width_ints.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\windows\mod.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\windows\msvc\mod.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\libc-27af87acf9be830a.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\macros.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\fixed_width_ints.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\windows\mod.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\windows\msvc\mod.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\macros.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\fixed_width_ints.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\windows\mod.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.148\src\windows\msvc\mod.rs:

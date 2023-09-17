@@ -1,0 +1,7 @@
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\bevy_mod_picking-79ab8649bf27e251.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\debug\mod.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\debug\FiraMono-Medium.ttf
+
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\bevy_mod_picking-79ab8649bf27e251.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\debug\mod.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\debug\FiraMono-Medium.ttf
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\debug\mod.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_mod_picking-0.14.0\src\debug\FiraMono-Medium.ttf:

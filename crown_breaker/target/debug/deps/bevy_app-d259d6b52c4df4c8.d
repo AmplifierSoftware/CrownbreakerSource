@@ -1,0 +1,10 @@
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\bevy_app-d259d6b52c4df4c8.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\app.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\config.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\plugin.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\plugin_group.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\schedule_runner.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\bevy_app-d259d6b52c4df4c8.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\app.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\config.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\plugin.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\plugin_group.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\schedule_runner.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\app.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\config.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\plugin.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\plugin_group.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_app-0.10.1\src\schedule_runner.rs:

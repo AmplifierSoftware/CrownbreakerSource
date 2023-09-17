@@ -1,0 +1,13 @@
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\qoi-61678064cf28d592.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src/lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\decode.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\encode.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\error.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\header.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\pixel.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\types.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\utils.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\consts.rs
+
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\qoi-61678064cf28d592.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src/lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\decode.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\encode.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\error.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\header.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\pixel.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\types.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\utils.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\consts.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src/lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\decode.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\encode.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\error.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\header.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\pixel.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\types.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\utils.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\qoi-0.4.1\src\consts.rs:

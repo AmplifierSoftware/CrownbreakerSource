@@ -1,0 +1,10 @@
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\bevy_picking_input-88fec2598b4dfd1f.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\debug.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\mouse.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\touch.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\libbevy_picking_input-88fec2598b4dfd1f.rlib: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\debug.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\mouse.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\touch.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\bevy_picking_input-88fec2598b4dfd1f.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\debug.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\mouse.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\touch.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\debug.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\mouse.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_picking_input-0.2.0\src\touch.rs:

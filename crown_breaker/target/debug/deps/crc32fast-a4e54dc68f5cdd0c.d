@@ -1,0 +1,10 @@
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\crc32fast-a4e54dc68f5cdd0c.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\pclmulqdq.rs
+
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\crc32fast-a4e54dc68f5cdd0c.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\pclmulqdq.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\baseline.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\combine.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\mod.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\table.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.3.2\src\specialized\pclmulqdq.rs:

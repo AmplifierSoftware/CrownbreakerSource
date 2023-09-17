@@ -1,0 +1,12 @@
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\half-6e2bddbfce981cea.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\bfloat.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\bfloat\convert.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\binary16.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\binary16\convert.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\leading_zeros.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\slice.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\vec.rs
+
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\half-6e2bddbfce981cea.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\bfloat.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\bfloat\convert.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\binary16.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\binary16\convert.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\leading_zeros.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\slice.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\vec.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\bfloat.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\bfloat\convert.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\binary16.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\binary16\convert.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\leading_zeros.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\slice.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.2.1\src\vec.rs:

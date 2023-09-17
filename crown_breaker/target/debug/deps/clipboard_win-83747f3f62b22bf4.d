@@ -1,0 +1,10 @@
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\clipboard_win-83747f3f62b22bf4.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\formats.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\raw.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\utils.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\libclipboard_win-83747f3f62b22bf4.rlib: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\formats.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\raw.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\utils.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\clipboard_win-83747f3f62b22bf4.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\formats.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\raw.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\utils.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\formats.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\raw.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clipboard-win-4.5.0\src\utils.rs:

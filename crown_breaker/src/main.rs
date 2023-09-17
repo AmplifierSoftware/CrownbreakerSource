@@ -1,50 +1,60 @@
-use belly::prelude::*;
 use bevy::prelude::*;
-use bevy_inspector_egui::quick::WorldInspectorPlugin;
-
-mod pop_utils;
-
-use pop_utils::pops;
-
-
-fn main(){
+use bevy_panorbit_camera::{PanOrbitCamera, PanOrbitCameraPlugin};
+fn main() {
+   
     App::new()
-        .add_plugins(DefaultPlugins)
-        .add_plugin(WorldInspectorPlugin::new())
-        .add_plugin(BellyPlugin)
-        .add_plugin(pops::PopPlugin)
-        .add_startup_system(test_sys)
-        
+        .add_plugins(DefaultPlugins
+            .set(WindowPlugin {
+                primary_window: Some(Window {
+                    title: "Crown Breaker v:predev".to_string(),
+                    
+                    ..Default::default()
+            }),
+            ..Default::default()
+        })
+        )
+        .add_plugin(PanOrbitCameraPlugin)
+        .add_startup_system(start)
+
         .run();
 }
-fn test_sys(mut commands: Commands,    mut meshes: ResMut<Assets<Mesh>>,
-    mut materials: ResMut<Assets<StandardMaterial>>,){
-    commands.spawn(Camera3dBundle::default());
-    commands.add(StyleSheet::load("stylesheet.ess"));
-    commands.add(eml! {
-        <div>
-            <div c:container>
-                <button>"test"</button>
-                <button>"test2"</button>
-                <button>"test3"</button>
-                <button>"test4"</button>
-            </div>
-        </div>
-    });
-    let sphere_mesh = meshes.add(
-        Mesh::try_from(shape::Icosphere {
-            radius: 0.45,
-            ..default()
-        })
-        .unwrap(),
-    );
+fn start(
+    mut commands: Commands,
+    mut meshes: ResMut<Assets<Mesh>>,
+    mut materials: ResMut<Assets<StandardMaterial>>,
+) {
+    // Ground
     commands.spawn(PbrBundle {
-        mesh: sphere_mesh,
-        material: materials.add(StandardMaterial {
-            base_color: Color::hex("#ffd891").unwrap(),
-            unlit: true,
-            ..default()
-        }), ..default()
-
+        mesh: meshes.add(shape::Plane::from_size(5.0).into()),
+        material: materials.add(Color::rgb(0.3, 0.5, 0.3).into()),
+        ..default()
     });
+    // Cube
+    commands.spawn(PbrBundle {
+        mesh: meshes.add(Mesh::from(shape::Cube { size: 1.0 })),
+        material: materials.add(Color::rgb(0.8, 0.7, 0.6).into()),
+        transform: Transform::from_xyz(0.0, 0.5, 0.0),
+        ..default()
+    });
+    // Light
+    commands.spawn(PointLightBundle {
+        point_light: PointLight {
+            intensity: 1500.0,
+            shadows_enabled: true,
+            ..default()
+        },
+        transform: Transform::from_xyz(4.0, 8.0, 4.0),
+        ..default()
+    });
+    // Camera
+    commands.spawn((
+        Camera3dBundle {
+            transform: Transform::from_translation(Vec3::new(0.0, 1.5, 5.0)),
+            ..default()
+        },
+        PanOrbitCamera{
+            button_orbit: MouseButton::Middle,
+            ..default()
+        },
+    ));
 }

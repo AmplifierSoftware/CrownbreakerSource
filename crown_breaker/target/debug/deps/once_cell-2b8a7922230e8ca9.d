@@ -1,0 +1,7 @@
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\once_cell-2b8a7922230e8ca9.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\imp_std.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\race.rs
+
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\once_cell-2b8a7922230e8ca9.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\imp_std.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\race.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\imp_std.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\once_cell-1.18.0\src\race.rs:

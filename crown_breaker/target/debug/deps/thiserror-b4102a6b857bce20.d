@@ -1,0 +1,10 @@
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\thiserror-b4102a6b857bce20.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\aserror.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\display.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\provide.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\libthiserror-b4102a6b857bce20.rlib: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\aserror.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\display.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\provide.rs
+
+C:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\thiserror-b4102a6b857bce20.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\aserror.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\display.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\provide.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\aserror.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\display.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-1.0.48\src\provide.rs:

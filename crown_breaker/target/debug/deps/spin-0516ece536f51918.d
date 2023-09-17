@@ -1,0 +1,12 @@
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\spin-0516ece536f51918.rmeta: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\barrier.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lazy.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\rwlock.rs
+
+c:\Users\CerpD\Documents\Programming\Ruststff\CrownbreakerSource\crown_breaker\target\debug\deps\spin-0516ece536f51918.d: C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\barrier.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lazy.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\rwlock.rs
+
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\barrier.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lazy.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\mutex\spin.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs:
+C:\Users\CerpD\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\rwlock.rs:
