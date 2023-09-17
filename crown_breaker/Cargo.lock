@@ -1698,6 +1698,8 @@ dependencies = [
  "bevy_mod_picking",
  "bevy_panorbit_camera",
  "image",
+ "libm",
+ "round",
  "winit",
 ]
 
@@ -2676,6 +2678,12 @@ dependencies = [
 ]
 
 [[package]]
+name = "libm"
+version = "0.2.7"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "f7012b1bbb0719e1097c47611d3898568c546d597c2e74d66f6087edd5233ff4"
+
+[[package]]
 name = "libudev-sys"
 version = "0.1.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -3572,6 +3580,12 @@ dependencies = [
  "serde",
  "serde_derive",
 ]
+
+[[package]]
+name = "round"
+version = "0.1.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b02705db4fa872ae37e464fc803b7ffa574e6c4a5e112c52a82550f9dd63b657"
 
 [[package]]
 name = "roxmltree"
